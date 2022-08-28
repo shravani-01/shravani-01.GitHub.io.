@@ -17,11 +17,13 @@ The applications of the above dataset is listed below. They are:
 
 I found the Information Retrieval Book interesting among the other books listed ine the website.
 
-The link for the book is [here]()
+The link for the book is [here](https://nlp.stanford.edu/IR-book/html/htmledition/irbook.html)
 
 **Authors** -  Christopher D. Manning, Prabhakar Raghavan & Hinrich Schütze
 
-1. The authors have detailed the various applications of information retrieval. Natural Language Processing algorithm will be the base for most of the applications.
-2. Web search, dictionary indexing, spelling correction using wildcard searches or regex, sentimental analysis are some of the topics which interests me the most.  
+
+The authors have detailed the various applications of information retrieval. Natural Language Processing algorithm will be the base for most of the applications.
+
+Web search, dictionary indexing, spelling correction using wildcard searches or regex, sentimental analysis are some of the topics which interests me the most.  
 
 
