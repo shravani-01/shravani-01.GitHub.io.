@@ -15,7 +15,7 @@ The applications of the above dataset is listed below. They are:
 
 ## Data Science Book
 
-I found the Information Retrieval Book interesting among the other books listed in the website.
+I found the **Introduction to Information Retrieval** Book interesting among the other books listed in the website.
 
 The link for the book is [here](https://nlp.stanford.edu/IR-book/html/htmledition/irbook.html)
 
