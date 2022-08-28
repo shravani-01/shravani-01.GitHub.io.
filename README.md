@@ -4,7 +4,7 @@ The dataset which interests me the most from the dataset section in the awesome 
 
 Click here to go to [COVID-19 Data](https://github.com/datasets/covid-19)
 
-This dataset contains the following parameters confirmed tested cases of infected people, reported deaths and the number of people who recovered from the deadly disease. Based on these values the data allows us to perform a time series analysis.
+This dataset contains the following parameters - confirmed tested cases of infected people, reported deaths and the number of people who recovered from the deadly disease. Based on these values, the data allows us to perform a time series analysis.
 
 The applications of the above dataset is listed below. They are:
 
@@ -15,7 +15,7 @@ The applications of the above dataset is listed below. They are:
 
 ## Data Science Book
 
-I found the Information Retrieval Book interesting among the other books listed ine the website.
+I found the Information Retrieval Book interesting among the other books listed in the website.
 
 The link for the book is [here](https://nlp.stanford.edu/IR-book/html/htmledition/irbook.html)
 
