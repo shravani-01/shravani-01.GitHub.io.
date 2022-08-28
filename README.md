@@ -1,4 +1,4 @@
-# shravani-01.GitHub.io.
+# shravani-01.github.io.
 ## Dataset
 The dataset which interests me the most from the dataset section in the awesome data science is the COVID 19 Data
 
