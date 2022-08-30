@@ -8,18 +8,18 @@ This dataset contains the following parameters - confirmed tested cases of infec
 
 The applications of the above dataset is listed below. They are:
 
-1. The dataset can be used to perform time series analysis where we can get an accurate estimate of the number of people infected, recovered and death cases on a timely basis.
-2. Analysing the time-series-19-covid-combined.csv data across various countries help to provide information to the people by displaying the accurate statistics on the rising cases on a dashboard by performing data visualizations like line plot, pie chart and so on.
+1. The dataset can be used to perform **time series analysis** where we can get an accurate estimate of the number of people infected, recovered and death cases on a timely basis.
+2. Analysing the **time-series-19-covid-combined.csv** data across various countries help to provide information to the people by displaying the accurate statistics on the rising cases on a dashboard by performing data visualizations like line plot, pie chart and so on.
 3. Time and Place are two important characteristics of this data where we can compare the rising cases between different time periods or days.
-4. countries-aggregated.csv also helps us to compare the cases between countries.
+4. **countries-aggregated.csv** also helps us to compare the cases between countries.
 
 ## Data Science Book
 
-I found the **Introduction to Information Retrieval** Book interesting among the other books listed in the website.
+I found the ***'Introduction to Information Retrieval'*** Book interesting among the other books listed in the website.
 
 The link for the book is [here](https://nlp.stanford.edu/IR-book/html/htmledition/irbook.html)
 
-**Authors** -  Christopher D. Manning, Prabhakar Raghavan & Hinrich Schütze
+**Authors** -  'Christopher D. Manning, Prabhakar Raghavan & Hinrich Schütze'
 
 
 The authors have detailed the various applications of information retrieval. Natural Language Processing algorithm will be the base for most of the applications.
